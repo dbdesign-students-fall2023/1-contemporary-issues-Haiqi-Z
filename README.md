@@ -1,3 +1,12 @@
 # Contemporary Issues In Data
+In this document, I discussed two articles about Google building new datacenters at Mesa, AZ. They present different points of views regarding Google's investment.
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
+## Article 1
+In DBTA's [Google Brings Latest Data Center Project to Arizona] (https://www.dbta.com/Editorial/News-Flashes/Google-Brings-Latest-Data-Center-Project-to-Arizona-160441.aspx), the author highlights the benefit of Google's move. The $600 million investment made by Google towards data centers at Mesa helps the company power key services such as Google Search, Gmail, and other AI/cloud computing services. This data is expected to help support Google's efforts in competing with companies like Microsoft and Amazon. 
+
+Not only is the data center strategically important for Google, the author points out, it is also beneficial to the local community. Those who live close to the data center will be able to enjoy faster and more reliable Google services. Also, the establishment of the data center will create jobs for the local residents. Google underscored that it generated $11.4 billion in economic activities in Arizona last year. There is no doubt that this number will continue to grow after the new data center at Mesa starts to operate. 
+
+## Article 2
+By contrast, the author of Times' [The Secret Cost of Google's Data Centers: Billions of Gallons of Water to Cool servers] (https://time.com/5814276/google-data-centers-water/) argues that the creation of a new data center at Mesa is harmful to the local community. Acknowledging the economic benefits brought by Google's investment, the author however warns about the negative effects of the new data center on the environment.
+
+The author points out that Google has been keeping the amount of water its data center consume as trade secret, intentionally stopping the public from knowing the environmental problem caused by their purportedly energy-efficient data centers. The author mentioned several shocking disclosure of water comsumption by Google's data centers in legal filing to support the argument. What's worse, Google's data centers are usually built in populous regions where their incredible water consumption poses threat to local water reserve. This reminds me of what I learned from the Ethics and Technology class I took last semester: despite the convenience and flexibility provided by data centers, people should be informed of the pollution and waste of natural resource engendered by these facilities. 
